@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+<script src="js/jquery.js"></script>
+<script>
+$(document).ready(function () {
+  $.get('http://jsonip.com', function (res) {
+   alert('IP Address is: ' + res.ip);
+  });
+});
+</script>
+<body>
+</body>
+</html>
