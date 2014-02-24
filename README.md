@@ -1,4 +1,4 @@
-phonegap-build-test
+Phonegap Build Test
 ===================
 
-Testing using build.phonegap.com
+Test using build.phonegap.com
